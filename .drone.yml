@@ -1,2 +1,4 @@
 image: bradrydzewski/python:3.3
-script: python -m unittest discover
+script:
+ - pip install -r requirements.txt
+ - python -m unittest discover
