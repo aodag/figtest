@@ -1,2 +1,2 @@
-image: python:3.3
+image: bradrydzewski/python:3.3
 script: python -m unittest discover
