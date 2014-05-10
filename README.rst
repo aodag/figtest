@@ -1,6 +1,5 @@
 counter
 ============
 
-a
 redis
 count
